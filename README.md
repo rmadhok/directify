@@ -2,7 +2,7 @@
 
 A basic python script I made to generate a folder directory for new EPoD / J-PAL projects. 
 
-*Features*
+**Features**
 * Generates full set of folders and sub-folders so you don't have to make 50+ folders manually. 
 * Initializes git in the directory and option to write a .gitignore file
 
